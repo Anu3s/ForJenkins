@@ -107,7 +107,7 @@ cursor: pointer;
 <legend>Which taxi do you require?</legend>
 <p><label class="choice"> <input type="radio" name="taxi" required value="car"> Car </label></p>
 <p><label class="choice"> <input type="radio" name="taxi" required value="van"> Van </label></p>
-<p><label class="choice"> <input type="radio" name="taxi" required value="tuktuk"> Tractor </label></p>
+<p><label class="choice"> <input type="radio" name="taxi" required value="tuktuk"> Bus </label></p>
 </fieldset>
 
 <fieldset>
