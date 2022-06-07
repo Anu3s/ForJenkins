@@ -113,7 +113,7 @@ cursor: pointer;
 <fieldset>
 <legend>Extras</legend>
 <p><label class="choice"> <input type="checkbox" name="extras" value="baby"> Baby Seat </label></p>
-<p><label class="choice"> <input type="checkbox" name="extras" value="wheelchair"> Wheelchair Access </label></p>
+<p><label class="choice"> <input type="checkbox" name="extras" value="wheelchair"> Wheelchair for elders Access </label></p>
 <p><label class="choice"> <input type="checkbox" name="extras" value="tip"> Stock Tip </label></p>
 </fieldset>
 
