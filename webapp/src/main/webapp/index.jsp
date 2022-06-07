@@ -136,7 +136,7 @@ cursor: pointer;
 
 <p>
 <label>Dropoff Place
-<input type="text" name="dropoff_place" required list="destinations">
+<input type="text" name="dropoff_place etloki" required list="destinations">
 </label>
 
 <datalist id="destinations">
