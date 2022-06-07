@@ -129,7 +129,7 @@ cursor: pointer;
 <option value="" selected="selected">Select One</option>
 <option value="office" >Taxi Office</option>
 <option value="town_hall" >Town Hall</option>
-<option value="telepathy" >We'll Guess!</option>
+<option value="telepathy" >lets explore Delhi!</option>
 </select>
 </label> 
 </p>
